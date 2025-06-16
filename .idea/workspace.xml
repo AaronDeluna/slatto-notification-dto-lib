@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e6217b3f-089b-4a07-9e06-e7a2030bf8af" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/slatto/notification/dto/auth/PasswordResetNotificationDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/slatto/notification/dto/auth/PasswordResetNotificationDto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/slatto/notification/dto/auth/RegistrationCodeNotificationDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/slatto/notification/dto/auth/RegistrationCodeNotificationDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +66,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1750047348330</updated>
-      <workItem from="1750047349464" duration="9320000" />
+      <workItem from="1750047349464" duration="11553000" />
     </task>
     <servers />
   </component>

@@ -3,6 +3,7 @@ package org.slatto.notification.dto.appointment;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.EqualsAndHashCode;
+import lombok.NoArgsConstructor;
 import lombok.ToString;
 import lombok.experimental.SuperBuilder;
 import org.slatto.notification.dto.BaseNotificationDto;
@@ -14,6 +15,7 @@ import java.time.LocalDateTime;
 @ToString(callSuper = true)
 @SuperBuilder
 @AllArgsConstructor
+@NoArgsConstructor
 public class AppointmentBookingNotificationDto extends BaseNotificationDto {
     private String offeringName;
     private String clientEmail;

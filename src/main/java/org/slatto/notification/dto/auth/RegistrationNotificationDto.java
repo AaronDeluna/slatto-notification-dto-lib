@@ -3,6 +3,7 @@ package org.slatto.notification.dto.auth;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.EqualsAndHashCode;
+import lombok.NoArgsConstructor;
 import lombok.ToString;
 import lombok.experimental.SuperBuilder;
 import org.slatto.notification.dto.BaseNotificationDto;
@@ -12,6 +13,7 @@ import org.slatto.notification.dto.BaseNotificationDto;
 @ToString(callSuper = true)
 @SuperBuilder
 @AllArgsConstructor
+@NoArgsConstructor
 public class RegistrationNotificationDto extends BaseNotificationDto {
     private String username;
 }
