@@ -16,6 +16,7 @@ import java.time.LocalDateTime;
 @AllArgsConstructor
 public class AppointmentBookingNotificationDto extends BaseNotificationDto {
     private String offeringName;
+    private String clientEmail;
     private String clientFirstName;
     private String clientLastName;
     private LocalDateTime date;

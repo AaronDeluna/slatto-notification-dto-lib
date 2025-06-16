@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e6217b3f-089b-4a07-9e06-e7a2030bf8af" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/slatto/notification/dto/appointment/AppointmentBookingMasterDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/slatto/notification/dto/appointment/AppointmentBookingMasterDto.java" afterDir="false" />
-    </list>
+    <list default="true" id="e6217b3f-089b-4a07-9e06-e7a2030bf8af" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -67,7 +64,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1750047348330</updated>
-      <workItem from="1750047349464" duration="6774000" />
+      <workItem from="1750047349464" duration="7377000" />
     </task>
     <servers />
   </component>
