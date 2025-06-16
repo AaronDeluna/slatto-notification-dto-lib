@@ -12,7 +12,6 @@ import org.slatto.notification.dto.BaseNotificationDto;
 @EqualsAndHashCode(callSuper = true)
 @ToString(callSuper = true)
 @Builder
-@NoArgsConstructor
 @AllArgsConstructor
 public class PasswordResetNotificationDto extends BaseNotificationDto {
 }
