@@ -1,12 +1,12 @@
 package org.slatto.notification.dto;
 
 import lombok.AllArgsConstructor;
-import lombok.Data;
 import lombok.EqualsAndHashCode;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
 import lombok.Setter;
 import lombok.ToString;
+import lombok.experimental.SuperBuilder;
 
 import java.io.Serializable;
 
@@ -14,6 +14,7 @@ import java.io.Serializable;
 @Setter
 @ToString
 @EqualsAndHashCode
+@SuperBuilder
 @AllArgsConstructor
 @NoArgsConstructor
 public abstract class BaseNotificationDto implements Serializable {
