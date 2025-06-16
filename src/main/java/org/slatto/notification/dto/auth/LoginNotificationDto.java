@@ -13,4 +13,5 @@ import org.slatto.notification.dto.BaseNotificationDto;
 @SuperBuilder
 @AllArgsConstructor
 public class LoginNotificationDto extends BaseNotificationDto {
+    private String username;
 }
