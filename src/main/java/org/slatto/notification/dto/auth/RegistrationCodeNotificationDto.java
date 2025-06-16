@@ -13,4 +13,5 @@ import org.slatto.notification.dto.BaseNotificationDto;
 @SuperBuilder
 @AllArgsConstructor
 public class RegistrationCodeNotificationDto extends BaseNotificationDto {
+    private String verificationCode;
 }
