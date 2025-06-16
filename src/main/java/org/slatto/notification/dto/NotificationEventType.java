@@ -8,4 +8,5 @@ public enum NotificationEventType {
     ACCOUNT_BLOCKED,
     APPOINTMENT_BOOKING_MASTER,
     APPOINTMENT_BOOKING_CLIENT;
+    
 }
